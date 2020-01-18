@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Background)(type KiCad)(uri /home/alex/Pictures)(options "")(descr ""))
+  (lib (name ADX)(type KiCad)(uri /home/alex/GitHub/agg-kicad/agg.pretty)(options "")(descr ""))
+)
